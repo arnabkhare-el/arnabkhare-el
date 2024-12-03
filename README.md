@@ -32,4 +32,5 @@ I am a passionate NLP Data Scientist with a strong background in natural languag
 </picture>
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kharearnab/)-->
+- [LinkedIn](https://www.linkedin.com/in/kharearnab/)
+-->
