@@ -1,6 +1,6 @@
 # Hi there, I'm Arnab 👋
 
-<!--
+
 ## About Me
 I am a passionate NLP Data Scientist with a strong background in natural language processing, machine learning, and data visualization. I love turning text data into actionable insights and building models to solve real-world language-related problems.
 
@@ -17,7 +17,7 @@ I am a passionate NLP Data Scientist with a strong background in natural languag
 - **NLP Libraries:** NLTK, SpaCy, Hugging Face Transformers, LangChain, LangGraph, AutoGen, CrewAI, OpenAI
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau
-
+<!--
 ## GitHub Stats
 <picture>
   <source
