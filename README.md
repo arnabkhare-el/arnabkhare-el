@@ -1,5 +1,6 @@
 # Hi there, I'm Arnab 👋
 
+<!--
 ## About Me
 I am a passionate NLP Data Scientist with a strong background in natural language processing, machine learning, and data visualization. I love turning text data into actionable insights and building models to solve real-world language-related problems.
 
@@ -31,4 +32,4 @@ I am a passionate NLP Data Scientist with a strong background in natural languag
 </picture>
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kharearnab/)
+- [LinkedIn](https://www.linkedin.com/in/kharearnab/)-->
