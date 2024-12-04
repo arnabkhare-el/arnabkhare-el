@@ -2,7 +2,7 @@
 
 
 ## About Me
-I am a passionate NLP Data Scientist with a strong background in natural language processing, machine learning, and data visualization. I love turning text data into actionable insights and building models to solve real-world language-related problems.
+I am a passionate NLP Data Scientist with a strong background in natural language processing, machine learning. I love turning text data into actionable insights and building models to solve real-world language-related problems.
 
 - 🔭 I’m currently working on multiple generative AI use cases, multi-agent frameworks, Retrieval-Augmented Generation (RAG), and search problems
 - 🌱 I’m currently learning advanced techniques in deep learning and reinforcement learning
